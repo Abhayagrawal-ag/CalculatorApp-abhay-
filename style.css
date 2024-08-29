@@ -1,0 +1,226 @@
+body{
+    background-color: rgb(61, 159, 197);
+}
+#container{
+    height: 440px;
+    width: 300px;
+    background-color: black;
+    border: 3px;
+    border-color: rgb(190, 190, 101);
+    margin-left: 620px;
+    margin-top: 60px;
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: italic;  
+}
+#box{
+    height: 80px;
+    width: 300px;
+    background-color: grey;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+#container1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#btn1{
+    background-color: grey;
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large; 
+    height: 50px;
+    width: 60px;
+}
+#btn2{
+    background-color: grey;
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    height: 50px;
+    width: 60px;
+}
+#btn3{
+    background-color: grey;
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    height: 50px;
+    width: 60px;
+}
+#btn4{
+    background-color: rgb(251, 117, 69);
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    height: 50px;
+    width: 60px;
+}
+#container2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#btn5{
+    background-color: rgb(50, 49, 49);
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large; 
+    height: 50px;
+    width: 60px;
+}
+#btn6{
+    background-color: rgb(50, 49, 49);
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    height: 50px;
+    width: 60px;
+}
+#btn7{
+    background-color: rgb(50, 49, 49);
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    height: 50px;
+    width: 60px;
+}
+#btn8{
+        background-color: rgb(251, 117, 69);
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    height: 50px;
+    width: 60px;
+}
+#container3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#btn9{
+    background-color: rgb(50, 49, 49);
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large; 
+    height: 50px;
+    width: 60px;
+}
+#btn10{
+    background-color: rgb(50, 49, 49);
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    height: 50px;
+    width: 60px;
+}
+#btn11{
+    background-color: rgb(50, 49, 49);
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    height: 50px;
+    width: 60px;
+}
+#btn12{
+        background-color: rgb(251, 117, 69);
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    height: 50px;
+    width: 60px;
+}
+#container4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#btn13{
+    background-color: rgb(50, 49, 49);
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large; 
+    height: 50px;
+    width: 60px;
+}
+#btn14{
+    background-color: rgb(50, 49, 49);
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    height: 50px;
+    width: 60px;
+}
+#btn15{
+    background-color: rgb(50, 49, 49);
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    height: 50px;
+    width: 60px;
+}
+#btn16{
+        background-color: rgb(251, 117, 69);
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    height: 50px;
+    width: 60px;
+}
+#container5{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#btn17{
+    background-color: rgb(50, 49, 49);
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large; 
+    height: 50px;
+    width: 160px;
+}
+#btn18{
+    background-color: rgb(50, 49, 49);
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    height: 50px;
+    width: 60px;
+}
+#btn19{
+        background-color: rgb(251, 117, 69);
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: x-large;
+    height: 50px;
+    width: 60px;
+}
+
